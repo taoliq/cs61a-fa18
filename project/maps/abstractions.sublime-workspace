@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colu",
+				"column_win"
+			],
+			[
+				"row",
+				"row_win"
+			],
+			[
+				"diag",
+				"diagonal_win"
+			],
+			[
+				"check",
+				"check_win_column"
+			],
+			[
+				"num",
+				"num_connect"
+			],
+			[
+				"max",
+				"max_cols"
+			],
+			[
+				"put",
+				"put_piece"
+			],
+			[
+				"new",
+				"new_board"
+			],
+			[
+				"cre",
+				"create_row"
+			],
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"mov",
+				"move_stack"
+			],
+			[
+				"print",
+				"print_move"
+			],
+			[
+				"withou",
+				"without_coin"
+			],
+			[
+				"ave",
+				"avenue"
+			],
+			[
+				"ping",
+				"pingpong_next"
+			],
+			[
+				"cyc",
+				"cycle_times"
+			],
+			[
+				"lamb",
+				"lambda_curry2"
+			],
+			[
+				"comp",
+				"compose1"
+			],
+			[
+				"is",
+				"is_swap"
+			],
+			[
+				"simul",
+				"simulate_result"
+			],
+			[
+				"roll",
+				"roll_simulate"
+			],
+			[
+				"previ",
+				"previous_high"
+			],
+			[
+				"score",
+				"score1"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"pre",
+				"previous_high"
+			],
+			[
+				"sw",
+				"is_swap"
+			],
+			[
+				"take",
+				"take_turn"
+			],
+			[
+				"cur",
+				"cur_turn"
+			],
+			[
+				"curr",
+				"current_turn"
+			],
+			[
+				"stra",
+				"strategy1"
+			],
+			[
+				"play",
+				"player_score"
+			],
+			[
+				"pla",
+				"player_score"
+			],
+			[
+				"oppo",
+				"opponent_score"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"PACK",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"page",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"set sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"Material Theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/d/Computer-Science-Course/cs61a/homework/hw04/hw04.py",
+		"/mnt/d/Computer-Science-Course/cs61a/homework/hw03/hw03.py",
+		"/mnt/d/Computer-Science-Course/cs61a/lab/lab02/lab02_extra.py",
+		"/mnt/d/Computer-Science-Course/cs61a/lab/lab02/lab02.py",
+		"/mnt/d/Computer-Science-Course/cs61a/homework/hw02/hw02.py",
+		"/mnt/d/Computer-Science-Course/cs61a/hog/ucb.py",
+		"/mnt/d/Computer-Science-Course/cs61a/hog/hog.py",
+		"/mnt/d/Computer-Science-Course/cs61a/hog/dice.py",
+		"/mnt/d/Computer-Science-Course/cs61a/hog/tests/05.py",
+		"/mnt/d/Computer-Science-Course/cs61a/lab/lab01/guessing_game_graph.py",
+		"/mnt/d/Computer-Science-Course/cs61a/lab/lab01/lab01_extra.py",
+		"/mnt/d/Computer-Science-Course/cs61a/lab/lab01/lab01.py",
+		"/mnt/d/Computer-Science-Course/cs61a/homework/hw01/hw01.py",
+		"/mnt/d/Computer-Science-Course/cs61a/homework/hw01/quine.py",
+		"/mnt/d/Computer-Science-Course/cs61a/lab/lab00/lab00.py",
+		"/mnt/d/MachineLearning/price_checking/surface_go_price_checking.py",
+		"/home/logqtainia/test.py",
+		"/mnt/d/MachineLearning/surface_go_price_checking.py",
+		"/home/logqtainia/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/mnt/d/Computer-Science-Course/cs61a/project/maps",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "abstractions.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ex",
+				"lab02_extra.py"
+			],
+			[
+				"",
+				"ucb.py"
+			],
+			[
+				"ho",
+				"hog.py"
+			],
+			[
+				"game",
+				"guessing_game_graph.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
